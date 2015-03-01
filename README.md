@@ -1,7 +1,7 @@
 # dr-h264-stream-status
 
 This is a simple setup that was used from 2009 to 2011 to monitor the H.264
-RTSP stream setup that [Danmarks Radio](http://www.dr.dk) was testing.
+RTSP streaming setup that [Danmarks Radio](http://www.dr.dk) was testing.
 
 The [monitor.py](monitor/monitor.py) script was run by cron every 10 minutes
 and it would start streaming each channel to be monitored for just a few seconds

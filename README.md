@@ -8,8 +8,7 @@ and it would start streaming each channel to be monitored for just a few seconds
 using [openRTSP](http://www.live555.com/openRTSP/). Results from the streaming sessions were then stored
 and graphs were updated using [RRDtool](http://www.rrdtool.org).
 
-All graphs were publicly available on a website which made it easy to spot outages in the past. In addition to that, the [probe.php](website/probe.php) script allowed
-visitors to perform adhoc inspection of streams.
+All graphs were publicly available on a website which made it easy to spot outages in the past. In addition to that, the [probe.php](website/probe.php) script let visitors perform ad hoc inspection of streams.
 
 [Screenshot from Internet
 Archive](https://web.archive.org/web/20100516053117/http://www.thomaslkjeldsen.dk/fjernsynfordig/streams/)
